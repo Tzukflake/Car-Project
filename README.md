@@ -1,4 +1,5 @@
-#Car Management API
+Car Management API
+
 This project is a Flask-based API designed to manage cars and users. The system provides CRUD functionality (Create, Read, Update, Delete) for both cars and users using SQLAlchemy as the ORM and SQLite as the database. The API allows clients to perform operations like retrieving information about cars and users, adding new records, and updating or deleting existing ones.
 
 Features
